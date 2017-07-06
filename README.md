@@ -9,3 +9,5 @@ The structure of the project is very simple.
 * webpack.config.js - Webpack configuration file
 * src               - Folder containing source files
 * dist              - Output folder containing bundle.js 
+
+https://atinder92.github.io/react-setup/
